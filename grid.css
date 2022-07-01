@@ -34,11 +34,13 @@ main {
 }
 .boxD {
   background-color: rgb(12, 134, 241);
+  padding: 12px;
 }
 .boxE {
   background-color: rgb(12, 134, 241);
   grid-column-start: 2;
   grid-column-end: 3;
+
 }
 .grid-1, .grid-2 {
   display: grid;
